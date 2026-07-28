@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" aria-label="Default medicine pack">
+  <rect width="320" height="240" rx="24" fill="#eaf6ff"/>
+  <rect x="68" y="56" width="184" height="128" rx="14" fill="#ffffff" stroke="#0b55a4" stroke-width="6"/>
+  <rect x="68" y="56" width="184" height="42" rx="14" fill="#0b55a4"/>
+  <circle cx="110" cy="140" r="24" fill="#ff6418"/>
+  <rect x="104" y="120" width="12" height="40" rx="4" fill="#ffffff"/>
+  <rect x="90" y="134" width="40" height="12" rx="4" fill="#ffffff"/>
+  <rect x="150" y="124" width="70" height="10" rx="5" fill="#9bc9ea"/>
+  <rect x="150" y="146" width="50" height="10" rx="5" fill="#9bc9ea"/>
+  <text x="160" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Al-Habib</text>
+</svg>

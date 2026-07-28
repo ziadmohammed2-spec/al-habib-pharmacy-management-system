@@ -1,0 +1,28 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# User-uploaded prescriptions
+/uploads/prescriptions/*
+!/uploads/prescriptions/.gitkeep
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# Dependencies (if added later)
+/vendor/
+/node_modules/
+
+# Legacy prescription upload directory
+/views/fe/uploads/*
+!/views/fe/uploads/.gitkeep
